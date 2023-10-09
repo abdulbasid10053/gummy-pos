@@ -21,7 +21,7 @@
                       </div>
                     </div>
                     <div class="form-group">
-                      <label>No Telephone:</label>
+                      <label>No Telephone :</label>
                       <div class="input-group">
                         <div class="input-group-addon">
                           <i class="fa fa-phone"></i>
