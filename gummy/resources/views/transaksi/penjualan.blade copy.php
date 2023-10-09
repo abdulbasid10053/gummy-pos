@@ -52,7 +52,7 @@
             </div>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-lg-4" >
             <div class="box box-widget">
                 <div class="box-body">
                     <table width="100%">
